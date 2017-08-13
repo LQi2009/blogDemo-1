@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  闭包实现block回调
 //
-//  Created by Artron_LQQ on 16/6/28.
-//  Copyright © 2016年 Artup. All rights reserved.
+//  Created by Artron_LQQ on 2017/8/13.
+//  Copyright © 2017年 Artup. All rights reserved.
 //
 
 import UIKit
@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
         
         let other = OtherViewController()
         

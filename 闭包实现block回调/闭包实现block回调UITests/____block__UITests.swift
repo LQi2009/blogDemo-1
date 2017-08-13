@@ -2,8 +2,8 @@
 //  ____block__UITests.swift
 //  闭包实现block回调UITests
 //
-//  Created by Artron_LQQ on 16/6/28.
-//  Copyright © 2016年 Artup. All rights reserved.
+//  Created by Artron_LQQ on 2017/8/13.
+//  Copyright © 2017年 Artup. All rights reserved.
 //
 
 import XCTest
